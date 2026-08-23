@@ -1,4 +1,4 @@
-# Lumen — IR Light Controller
+# Lumen — IR Light Controller    
 
 A Kotlin/Compose Android app that drives your phone's built-in IR blaster
 using the NEC protocol. Built to grow beyond lights: the color ring, the
